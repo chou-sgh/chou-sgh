@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chou-sgh
-- 👀 I’m interested in Full-stack Web Developement and Web design
-- 🌱 I’m currently learning react js and node js 
-- 💞️ I’m looking to collaborate on building different websites and to learn new things on the way 
+- 👀 I’m an app developer working mainly with python
+- 🌱 Interested in ML and DL 
+- 💞️ I’m looking to collaborate on building different apps and to learn new things on the way 
 - 📫 please contact me on my email "chou.sgh@gmail.com" for any inquiries or further information
 
 <!---
