@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chou-sgh
-- 👀 I’m an app developer working mainly with python
+- 👀 I’m a web app developer working mainly with JS and python
 - 🌱 Interested in ML and DL 
 - 💞️ I’m looking to collaborate on building different apps and to learn new things on the way 
 - 📫 please contact me on my email "chou.sgh@gmail.com" for any inquiries or further information
